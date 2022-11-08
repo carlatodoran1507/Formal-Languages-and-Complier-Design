@@ -1,0 +1,12 @@
+@
+let d: number;
+let c: number;
+read(d);
+read(c);
+if (d % c == 0) {
+	print(d / c);
+}
+if (c% d == 0) {
+	print(c / d);
+}
+@
