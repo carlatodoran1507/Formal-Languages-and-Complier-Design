@@ -1,0 +1,13 @@
+@
+let d: number;
+let d: number;
+let initiald: number;
+read(d);
+read(c);
+initiald = d;
+while (c > 1) {
+	c--;
+	d = d * initiald;
+}
+print(d);
+@

@@ -1,0 +1,12 @@
+@
+let a: number;
+let b: number;
+read(a);
+read(b);
+if (a > b) {
+	print("a is bigger);
+}
+if (2a < b) {
+	print("b is bigger");
+}
+@
